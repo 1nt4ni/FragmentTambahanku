@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="textViewName" type="id" />
+    <item name="textViewTTL" type="id" />
+    <item name="textViewPendidikan" type="id" />
+    <item name="textViewPrestasi" type="id" />
+</resources>
